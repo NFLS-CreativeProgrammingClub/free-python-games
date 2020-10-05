@@ -16,3 +16,9 @@
 /freegames.egg-info/
 
 .DS_Store
+.idea/vcs.xml
+.idea/free-python-games.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
